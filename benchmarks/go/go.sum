@@ -4,3 +4,5 @@ github.com/go-ruby-find/find v0.0.0-20260717064950-d884f04350dc h1:cu9Jc3qJI/REG
 github.com/go-ruby-find/find v0.0.0-20260717064950-d884f04350dc/go.mod h1:wpq0ciEFn8zUc1vfuHRjF2U8mH0krhJCRHHr+JOGaEY=
 github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5 h1:3UiJEH7DMbS7uJal9QdjTEQ0b1y7Gprpt2uT+8yO4bY=
 github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5/go.mod h1:wpq0ciEFn8zUc1vfuHRjF2U8mH0krhJCRHHr+JOGaEY=
+github.com/go-ruby-find/find v0.0.0-20261007112534-45e99c72dcff h1:MdmWM/7bIA5bkLNDZwnletQc6eJDrnZ5VXH+yfsSXfU=
+github.com/go-ruby-find/find v0.0.0-20261007112534-45e99c72dcff/go.mod h1:eL1warkZe+4gZfmc1PEu9DvifCx+60Q6wP3EO343W0Y=
